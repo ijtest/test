@@ -1,8 +1,13 @@
-public class Hello {
+package org.jacoco.examples.maven.java;
 
-    public static void main(String[] args) {
-    
-        System.out.println("Hello, World");
-    }
+public class Hello {
+	
+	public String getMessage(boolean bigger) {
+		if (bigger) {
+			return "Hello Universe!";
+		} else {
+			return "Hello World!";
+		}
+	}
 
 }

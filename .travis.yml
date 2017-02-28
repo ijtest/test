@@ -1,8 +1,13 @@
 language: java
-
+install: ant deps
 jdk:
   - oraclejdk8
   
+sudo: false
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
 script: ant main
 - javac Hello.java
 - java Hello

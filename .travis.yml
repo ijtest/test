@@ -13,4 +13,4 @@ addons:
     packages:
       - oracle-java8-installer
       
-script: ant Hello
+script: ant main

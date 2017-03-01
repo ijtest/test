@@ -1,4 +1,4 @@
-package org.jacoco.examples.maven.java;
+package org.ijtest.com;
 
 public class Hello {
 	

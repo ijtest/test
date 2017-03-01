@@ -1,4 +1,3 @@
-package org.ijtest.com;
 
 import static org.junit.Assert.*;
 import org.junit.Before;

@@ -1,4 +1,3 @@
-package org.ijtest.com;
 
 public class Hello {
 	

@@ -1,4 +1,5 @@
 
+package org.ijtest.com;
 
 import static org.junit.Assert.*;
 

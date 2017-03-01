@@ -1,9 +1,9 @@
-package org.jacoco.examples.maven.java;
+package org.ijtest.com;
 
-import static org.junit.Assert.*;
 
-import org.junit.Before;
-import org.junit.Test;
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
 
 public class HelloWorldTest {
 

@@ -7,16 +7,12 @@ public class HelloWorldTest
     extends TestCase
 {
    
-    public Tester( String testName )
+    public HelloWorldTest( String testName )
     {
         super( testName );
     }
 
- 
-    public static Test suite()
-    {
-        return new TestSuite( Tester.class );
-    }
+
 
  
     public void testApp()

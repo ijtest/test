@@ -1,4 +1,3 @@
-package org.ijtest.com;
 
 
 import junit.framework.Test;
